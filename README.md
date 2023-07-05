@@ -2,7 +2,7 @@
 FrontEnd Developer
 --------------------------
 
-Hello, i'm Ejiro, an inquisitive frontend developer and enthusiast looking to improve his Skills. Proficient knowledge on Javascript and React Js. 
+Hello, My name is Ejiro, an inquisitive frontend developer and enthusiast looking to improve his Skills. Proficient knowledge on Javascript and React Js. 
 
 
 * 🌍  I'm based in Nigeria
