@@ -1,16 +1,17 @@
 
-Web and FrontEnd Developer
+FrontEnd Developer
 --------------------------
 
-I'm currently working on API usage and currently Checking out node and react Js. I am working on An IP address tracker website, pretty slick right😌. Solid knowledge of HTML 5, CSS3, bootstrap, JavaScript, node Js as well as tiny bit of Git😂. Check out my source codes in my repo🙏. Thanks y'all.
+Hello, i'm Ejiro, an inquisitive frontend developer and enthusiast looking to improve his Skills. Proficient knowledge on Javascript and React Js. 
+
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [github.com/EjiroOsiephri](http://linkedln.com/Ejiro Osiephri)
+* 🖥️  Currently working on my portfolio
 * ✉️  You can contact me at [osiephriejiro765@gmail.com](mailto:osiephriejiro765@gmail.com)
-* 🚀  I'm currently working on [Portfolio Website and Weather App](http://app.netlify.com/teams/shinigami-012/overview)
-* 🧠  I'm learning A new javascript libraray Chart.js
+* 🚀 
+* 🧠  I'm learning a new javascript libraray Three.js
 * 🤝  I'm open to collaborating on interesting projects on frontend
-* ⚡  Love Basketball
+* ⚡  Interested in Anime.
 
 ### Skills
 
