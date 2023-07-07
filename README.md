@@ -8,7 +8,7 @@ Hello, My name is Ejiro, an inquisitive frontend developer and enthusiast lookin
 * 🌍  I'm based in Nigeria
 * 🖥️  Currently working on my portfolio
 * ✉️  You can contact me at [osiephriejiro765@gmail.com](mailto:osiephriejiro765@gmail.com)
-* 🚀 Superb cook 
+* 🚀 I Love Cooking
 * 🧠  I'm learning a new javascript libraray Three.js
 * 🤝  I'm open to collaborating on interesting projects on frontend
 * ⚡  Interested in Anime.
