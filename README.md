@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend and Backend Developer
 ------------------------------
 
-Hey there ,welcome to my github profile. I am a Full stack developer with over 2 years experience in exploring the realms of tech. Asides from coding i am pursuing a bachelors degree in Engineering/Electronic physics at the university of lagos.
+Hi there!!,welcome to my github profile. I am a Full stack developer with over 2 years experience in exploring the realms of tech. Asides from coding i am pursuing a bachelors degree in Engineering/Electronic physics at the university of lagos.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [osiephriejiro765@gmail.com](mailto:osiephriejiro765@gmail.com)
