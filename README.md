@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ejiro Osiephri
 ======================================================================================================================================
 
-Frontend and Backend Developer
+Full Stack Developer
 ------------------------------
 
-Hi there!!,welcome to my github profile. I am a Full stack developer with over 2 years experience in exploring the realms of tech. Asides from coding i am pursuing a bachelors degree in Engineering/Electronic physics at the university of lagos.
+Hi there!,Welcome to my github profile. I am a Full stack developer with over 3 years experience in exploring the realms of tech and the various aspects of writing the launguage of the web. Asides from coding i am pursuing a bachelors degree in Engineering/Electronic physics at the university of lagos.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [osiephriejiro765@gmail.com](mailto:osiephriejiro765@gmail.com)
