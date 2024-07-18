@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Ejiro%20Osiephri)
 ![](https://avatars.githubusercontent.com/u/107992530?v=4)
-<p align="center">
+<p align="left">
   <h3 align="center">ABOUT Ejiro osiephri(Ejiromustshine✨🖤)</h3>
   
   <p align="center">
@@ -15,7 +15,6 @@
 </p>
 </p>
 
-![](https://komarev.com/ghpvc/?username=EjiroOsiephri)
 
 ## About Me
 I am a student. I love thinking about ideas and bringing them to life wit code.<br>
