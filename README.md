@@ -34,15 +34,10 @@ ReactJs, NextJS, Expressjs, Django, nestJs, PostgresSql,Prisma, Framer Motion
 Other Technologies : `Git`,`Docker`,`CI`,`Cloud Services`,`Serverless Applications`,`Heroku, Vercel`,`Browser Automation`
 <p>
    
- ### Languages Stats
  
  ### Languages Stats
-<a href="http://www.github.com/EjiroOsiephri"><img src="https://github-readme-stats.vercel.app/api?username=EjiroOsiephri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EjiroOsiephri's GitHub stats" /></a>
- 
-  <a href="https://github.com/EjiroOsiephri">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EjiroOsiephri&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EjiroOsiephri&layout=compact&langs_count=7&theme=midnight-purple"/></a>
+<a href="http://www.github.com/EjiroOsiephri"><img src="https://github-readme-stats.vercel.app/api?username=EjiroOsiephri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=midnight-purple&hide_border=true&show_icons=true" alt="EjiroOsiephri's GitHub stats" /></a>
   
-
   <!--img src="https://stats.milovangudelj.com/api/top-langs?username=EjiroOsiephri&show_icons=true&locale=en&theme=onedark&layout=compact" alt="ptr1337" /--></p>
 
 
