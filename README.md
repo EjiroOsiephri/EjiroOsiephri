@@ -1,11 +1,11 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Ejiro%20Osiephri)
-![](https://avatars.githubusercontent.com/u/107992530?v=4)
-<p align="left">
+
+<p align="center">
   <h3 align="center">ABOUT Ejiro osiephri(Ejiromustshine✨🖤)</h3>
   
   <p align="center">
-    Student, Self-taught Software Engineer
+    Self-taught Software Engineer
     <br />
       
   <p align="center">
