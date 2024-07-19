@@ -17,7 +17,7 @@
 
 
 ## About Me
-I am a student. I love thinking about ideas and bringing them to life wit code.<br>
+I am a student. I love thinking about ideas and bringing them to life with code.<br>
 Developing APIs, web services, frontend applications, tools, scripts, and memes, Editing stuff. <br>
 I am having special interest in Physics, Systems Programming, and embedded systems<br>
 
