@@ -68,7 +68,8 @@ src="https://img.shields.io/github/followers/EjiroOsiephri?logo=github&style=for
 
 
 
-[![Timi's wakatime stats]<a href="https://wakatime.com/@f3297a20-2654-48cb-9313-24cc65870378"><img src="https://wakatime.com/badge/user/f3297a20-2654-48cb-9313-24cc65870378.svg" alt="Total time coded since Jul 12 2024" /></a>
+[![WakaTime Badge](https://wakatime.com/badge/user/f3297a20-2654-48cb-9313-24cc65870378.svg)](https://wakatime.com/@f3297a20-2654-48cb-9313-24cc65870378)
+
 
 
 
