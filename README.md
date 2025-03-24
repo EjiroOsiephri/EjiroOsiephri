@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/EjiroOsiephri?logo=github&style=for
 
 
 
-[![WakaTime Badge](https://wakatime.com/badge/user/f3297a20-2654-48cb-9313-24cc65870378.svg)](https://wakatime.com/@f3297a20-2654-48cb-9313-24cc65870378)
+[![WakaTime Badge](https://wakatime.com/badge/user/f3297a20-2654-48cb-9313-24cc65870378.svg)](https://wakatime.com/@EjiroOsiephri)
 
 
 
